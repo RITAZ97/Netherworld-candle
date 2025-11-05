@@ -27,7 +27,7 @@ const newsData = [
   },
   {
     id: 4,
-    image: '/news4.jpeg',
+    image: '/News4.jpeg',
     title: ' Shipping Timeline Update',
     details: 'Important information on our delivery schedule.',
     description: `Important information about our production schedule and expected delivery dates. We're working diligently with our partners and are happy to confirm that we're still on track for our summer delivery! Thank you for your incredible patience and support.`,

@@ -1,41 +1,74 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/pages/api-reference/create-next-app).
+<div align="center">
+  <h1>Welcome to InfinityHex Games</h1>
+  <p>
+    <strong>Supernatural Board Game Experience | Crafting Immersive Journeys with Next.js</strong>
+  </p>
+  <p>
+    <a href="https://your-game-site.vercel.app/" target="blank" >Visit Website</a> |
+  </p>
+  <h6>Developed by RITA ZHAO</h6>
+</div>
 
-## Getting Started
+<br>
 
-First, run the development server:
+## 🕯️ Overview
 
-```bash
+> **Netherworld Candle**: A 1-4 player cooperative board game inspired by Chinese folklore. Explore tombs, face spirits, and uncover lost treasures.
+
+This project serves as the digital home for **InfinityHex Games**. Built with **Next.js**, the site focuses on delivering a high-atmosphere visual experience through modular architecture, optimized for fast loading and seamless storytelling.
+
+<div align="center">
+  <img src="public/image_72444a.jpg" alt="InfinityHex Games Preview" width="100%" style="border-radius: 10px;">
+</div>
+
+---
+
+## 🎨 Key Features
+
+- 📱 **Responsive Folklore UI**: A dark-mode aesthetic fully optimized for all devices, ensuring the "Netherworld" vibe translates perfectly to mobile and desktop.
+
+
+- ⚡ **Performance Optimization**: Leveraging Next.js Image optimization and lazy-loading to handle high-resolution game assets without compromising speed.
+
+
+- 🚀 **Component-Based Showcase**: Built with highly reusable components for game boards, character cards, and rule sections, allowing for easy expansion of the game universe.
+
+
+- 🏮 **Interactive Immersion**: Custom UI elements including glowing neon accents and thematic transitions to mirror the game's supernatural atmosphere.
+
+---
+
+## 🗂 Tech Stack
+
+The core technologies driving this tabletop gaming platform:
+
+- 🎨 **Frontend:** Next.js (React)
+- 📠 **Pattern:** Component-Based Architecture
+- 🌳 **Backend:** Next.js (Serverless Functions)
+- ☁️ **Cloud:** Vercel
+- ♾ **CI/CD:** Vercel
+- 🎩 **Deployment:** Vercel
+
+---
+
+## 🚀 Running
+
+Dev:
+```sh
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
+Prod:
+```sh
+npm run build
+```
+---
+## 🗺️ Feature Roadmap
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- **Type Safety**: Refactoring core components to **TypeScript** for better maintainability.
+- **Dynamic Animations**: Integrating **Framer Motion** for card-hover effects and scroll-triggered reveals.
+- **Visual Optimization**: Implementing **Next/Image** optimization for high-resolution game artwork.
+- **Interactive Rulebook**: Adding a dedicated section for downloadable PDF rules or an on-page guide.
+- **SEO & Socials**: Optimizing **Open Graph tags** so game previews look great when shared on Discord/X.
+- **Mobile Experience**: Refining the **mobile navigation** for quick access to game stats on the go.
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
-
-[API routes](https://nextjs.org/docs/pages/building-your-application/routing/api-routes) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
-
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/pages/building-your-application/routing/api-routes) instead of React pages.
-
-This project uses [`next/font`](https://nextjs.org/docs/pages/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn-pages-router) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/pages/building-your-application/deploying) for more details.
-# Netherworld-candle
+---

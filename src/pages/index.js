@@ -79,7 +79,7 @@ export default function Home() {
         </div>
         
         <div className="w-full mt-10">
-          <Video src="/test.mp4" />
+          <Video src="/NW video new.mp4" />
         </div>
         <div className="text-center mt-8">
             <h4 className="text-[12px] md:text-[16px] text-secondary font-extralight">
@@ -167,7 +167,7 @@ export default function Home() {
           </div>
         </div>
         <div className="w-[90%] md:hidden aspect-video overflow-hidden mx-auto mt-[20px]">
-          <img src="/about us2.png" alt="game photo" className="w-full h-full object-cover" />
+          <img src="/about us2.2.png" alt="game photo" className="w-full h-full object-cover" />
         </div>
       </div>
     </section>

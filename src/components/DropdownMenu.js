@@ -7,13 +7,11 @@ const DropdownMenu = () => {
  
 
    return (
-    // 使用 'relative' 来作为下拉菜单的定位基准
     <div className="md:hidden relative">
       
-      {/* 按钮区域 */}
       <button
         onClick={() => setIsOpen(!isOpen)}
-        className="p-2 focus:outline-none z-50" // z-50 确保图标在菜单之上
+        className="p-2 focus:outline-none z-50" 
       >
         
         {isOpen ? (   

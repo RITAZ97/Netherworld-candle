@@ -18,7 +18,7 @@
 This project serves as the digital home for **InfinityHex Games**. Built with **Next.js**, the site focuses on delivering a high-atmosphere visual experience through modular architecture, optimized for fast loading and seamless storytelling.
 
 <div align="center">
-  <img src="public/image_72444a.jpg" alt="InfinityHex Games Preview" width="100%" style="border-radius: 10px;">
+  <img src="public/nc_game.png" alt="InfinityHex Games Preview" width="100%" style="border-radius: 10px;">
 </div>
 
 ---
@@ -64,11 +64,24 @@ npm run build
 ---
 ## 🗺️ Feature Roadmap
 
-- **Type Safety**: Refactoring core components to **TypeScript** for better maintainability.
-- **Dynamic Animations**: Integrating **Framer Motion** for card-hover effects and scroll-triggered reveals.
-- **Visual Optimization**: Implementing **Next/Image** optimization for high-resolution game artwork.
-- **Interactive Rulebook**: Adding a dedicated section for downloadable PDF rules or an on-page guide.
-- **SEO & Socials**: Optimizing **Open Graph tags** so game previews look great when shared on Discord/X.
-- **Mobile Experience**: Refining the **mobile navigation** for quick access to game stats on the go.
+---
+
+## 🗺️ Feature Roadmap
+
+- **Responsive Design**: Ensuring a seamless user experience across all devices, from mobile phones to desktops.
+- **Visual Enhancements**: Adding smooth hover states and transition effects to improve site interactivity.
+- **Image Performance**: Optimizing high-resolution game assets for faster loading and better visual quality.
+- **Interactive Gallery**: Developing a dedicated viewer for high-definition character and card artwork.
+- **Rulebook Section**: Integrating a dedicated area for players to view or download the game manual.
 
 ---
+## 📯 Contact Me
+
+I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions.
+
+- **GitHub**: [@RITAZ97](https://github.com/RITAZ97/rita-portfolio)
+- **Email**: [ritazhaocareer@gmail.com](mailto:ritazhaocareer@gmail.com)
+
+## 📑 License
+
+MIT

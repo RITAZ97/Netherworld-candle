@@ -4,7 +4,7 @@
     <strong>Supernatural Board Game Experience | Crafting Immersive Journeys with Next.js</strong>
   </p>
   <p>
-    <a href="https://your-game-site.vercel.app/" target="blank" >Visit Website</a> |
+    <a href="https://netherworld-candle.vercel.app/" target="blank" >Visit Website</a> |
   </p>
   <h6>Developed by RITA ZHAO</h6>
 </div>
@@ -61,9 +61,6 @@ Prod:
 ```sh
 npm run build
 ```
----
-## 🗺️ Feature Roadmap
-
 ---
 
 ## 🗺️ Feature Roadmap

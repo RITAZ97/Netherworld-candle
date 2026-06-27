@@ -1,7 +1,7 @@
 "use client";
 import { useState } from "react";
 
-const Video = ({ src = "/test.mp4", perspective = 600 }) => {
+const Video = ({ src = "/public/NW video new.mp4", perspective = 600 }) => {
   const [transform, setTransform] = useState(
     `perspective(${perspective}px) rotateX(0deg) rotateY(0deg) scale(1)`
   );
